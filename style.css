@@ -1,0 +1,20 @@
+#head_title{
+    font-size: 100px;
+    color: blue;
+    text-align: center;
+}
+h2{text-align: center;}
+.profile{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(184, 163, 237);
+    border: 0.1cm solid black;
+    padding: 10px;
+
+}
+#title{
+    font-size: 70px;
+    color: brown;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
